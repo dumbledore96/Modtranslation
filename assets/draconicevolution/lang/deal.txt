@@ -1,0 +1,5 @@
+"block.draconicevolution.celestial_manipulator": "天體操控器",
+"block.draconicevolution.entity_detector": "實體檢測器",
+"block.draconicevolution.entity_detector_advanced": "高級實體檢測器",
+"block.draconicevolution.rain_sensor": "雨感應器",
+"generic.configureRedstone": "配置紅石",
