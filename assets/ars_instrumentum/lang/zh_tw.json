@@ -1,0 +1,14 @@
+{
+    "instrumentum.armarium.hotbar_no_switch": "巫師的武庫將不會切換快捷欄物品",
+    "instrumentum.armarium.hotbar_switch": "巫師的武庫將切換快捷欄物品",
+    "instrumentum.armarium.hotbar_warning": "在切換模式之前，請從武庫中移除快捷欄物品！",
+    "item.ars_instrumentum.copy_paste_spell_scroll": "法術轉移卷軸",
+    "item.ars_instrumentum.fake_wilden_tribute": "被征服敵人的精華",
+    "item.ars_instrumentum.numeric_mana_charm": "數字法力護符",
+    "item.ars_instrumentum.runic_storage_stone": "符文儲物石",
+    "item.ars_instrumentum.scroll_of_save_starbuncle": "保存Starbuncle的卷軸",
+    "item.ars_instrumentum.wizards_armarium": "巫師的武庫",
+    "key.ars_nouveau.choose_armarium_slot": "(巫師的武庫) 切換選擇HUD",
+    "key.ars_nouveau.switch_armarium_slot": "切換巫師的武庫"
+  }
+  
